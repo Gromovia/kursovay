@@ -12,6 +12,10 @@ from tkinter import colorchooser, messagebox
 
 
 
+
+def Black():
+
+
 def Black():
     """
         Black()
