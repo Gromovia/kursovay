@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['C:\\sreditor\\sreditor\\editor.py'],
+    ['c:\\Курсовая\\sreditor\\sreditor\\editor.py'],
     pathex=[],
     binaries=[],
     datas=[],
